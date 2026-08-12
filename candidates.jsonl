@@ -1,0 +1,178 @@
+{"repo":"pytorch/pytorch","number":192874,"title":"Set-family VariableTracker hierarchy diverges from CPython","url":"https://github.com/pytorch/pytorch/issues/192874"}
+{"repo":"pytorch/pytorch","number":191397,"title":"[Distributed Tools] MemoryTracker load does not restore operation count","url":"https://github.com/pytorch/pytorch/issues/191397"}
+{"repo":"pytorch/pytorch","number":191395,"title":"[Elastic] etcd find_free_port masks socket creation failures","url":"https://github.com/pytorch/pytorch/issues/191395"}
+{"repo":"pytorch/pytorch","number":191394,"title":"[Elastic] FileStore rendezvous leaks the mkstemp file descriptor","url":"https://github.com/pytorch/pytorch/issues/191394"}
+{"repo":"pytorch/pytorch","number":189607,"title":"Add a test that test/cpython/v3_13/*.diff files stay in sync with the adapted test files","url":"https://github.com/pytorch/pytorch/issues/189607"}
+{"repo":"pytorch/pytorch","number":188317,"title":"[RFC] Add process group revoke in torch.distributed","url":"https://github.com/pytorch/pytorch/issues/188317"}
+{"repo":"pytorch/pytorch","number":160731,"title":"Cannot initialise process group on CPU device with GLOO backend","url":"https://github.com/pytorch/pytorch/issues/160731"}
+{"repo":"pytorch/pytorch","number":158968,"title":"foreach_map enhancements","url":"https://github.com/pytorch/pytorch/issues/158968"}
+{"repo":"pytorch/pytorch","number":153822,"title":"Passing string to devices in register_backend causes incorrect behavior","url":"https://github.com/pytorch/pytorch/issues/153822"}
+{"repo":"pytorch/pytorch","number":153669,"title":"Make tlparse able to show a summary of distinct graph breaks","url":"https://github.com/pytorch/pytorch/issues/153669"}
+{"repo":"keras-team/keras","number":23413,"title":"[Bug] Division by zero in gptq_quantize_matrix","url":"https://github.com/keras-team/keras/issues/23413"}
+{"repo":"huggingface/datasets","number":5806,"title":"Return the name of the currently loaded file in the load_dataset function.","url":"https://github.com/huggingface/datasets/issues/5806"}
+{"repo":"huggingface/datasets","number":5354,"title":"Consider using \"Sequence\" instead of \"List\"","url":"https://github.com/huggingface/datasets/issues/5354"}
+{"repo":"huggingface/datasets","number":4709,"title":"WMT21 & WMT22","url":"https://github.com/huggingface/datasets/issues/4709"}
+{"repo":"matplotlib/matplotlib","number":26292,"title":"[Bug]: macOS backend run by non-logged-in user crashes in Ventura","url":"https://github.com/matplotlib/matplotlib/issues/26292"}
+{"repo":"matplotlib/matplotlib","number":23548,"title":"Create fully pinned requirements file for bug-fix branches","url":"https://github.com/matplotlib/matplotlib/issues/23548"}
+{"repo":"matplotlib/matplotlib","number":22803,"title":"[Bug]: Large file size when using fill_between()","url":"https://github.com/matplotlib/matplotlib/issues/22803"}
+{"repo":"matplotlib/matplotlib","number":20355,"title":"PowerNorm should have a scale...","url":"https://github.com/matplotlib/matplotlib/issues/20355"}
+{"repo":"matplotlib/matplotlib","number":20243,"title":"matplotlib eventplot not shows all the binary data for big number of events","url":"https://github.com/matplotlib/matplotlib/issues/20243"}
+{"repo":"matplotlib/matplotlib","number":18305,"title":"Support simple axes shares in subplot_mosaic","url":"https://github.com/matplotlib/matplotlib/issues/18305"}
+{"repo":"matplotlib/matplotlib","number":18050,"title":"WXCairo backend not rendering nicely on retina","url":"https://github.com/matplotlib/matplotlib/issues/18050"}
+{"repo":"matplotlib/matplotlib","number":17775,"title":"clone more legend settings when regenerating in Qt figure options dialog","url":"https://github.com/matplotlib/matplotlib/issues/17775"}
+{"repo":"matplotlib/matplotlib","number":17479,"title":"Add thumbnails for tutorials/gallery where missing","url":"https://github.com/matplotlib/matplotlib/issues/17479"}
+{"repo":"matplotlib/matplotlib","number":17402,"title":"SymLog scale has too few ticks","url":"https://github.com/matplotlib/matplotlib/issues/17402"}
+{"repo":"scipy/scipy","number":16601,"title":"ENH: LIL sparse matrix assigning should be optimized rather than using densified matrixes","url":"https://github.com/scipy/scipy/issues/16601"}
+{"repo":"scipy/scipy","number":7168,"title":"DOC: Add \"Examples\" to docstrings","url":"https://github.com/scipy/scipy/issues/7168"}
+{"repo":"scipy/scipy","number":4368,"title":"DOC: signal: add FIR filter examples","url":"https://github.com/scipy/scipy/issues/4368"}
+{"repo":"scipy/scipy","number":3432,"title":"Test coverage for scipy.signals.windows needs improvement","url":"https://github.com/scipy/scipy/issues/3432"}
+{"repo":"openai/openai-python","number":843,"title":"Add shell auto completion for different shell, like bash, zsh, fish, powershell","url":"https://github.com/openai/openai-python/issues/843"}
+{"repo":"openai/openai-python","number":622,"title":"OpenAI CLI Tools for Chat Fine-Tuning","url":"https://github.com/openai/openai-python/issues/622"}
+{"repo":"vllm-project/vllm","number":49529,"title":"[Perf][Kernel] Adopt PTX 9.4 `ldmatrix.s8.s4` (hardware INT4→INT8 expanding load) in W4A8-INT8 paths","url":"https://github.com/vllm-project/vllm/issues/49529"}
+{"repo":"vllm-project/vllm","number":41230,"title":"[Docs] Document NIXL KV connector metrics aggregation semantics","url":"https://github.com/vllm-project/vllm/issues/41230"}
+{"repo":"vllm-project/vllm","number":39479,"title":"[torch.compile] config hashing refactor follow-ups","url":"https://github.com/vllm-project/vllm/issues/39479"}
+{"repo":"vllm-project/vllm","number":38425,"title":"[Transformers v5] InternVL2","url":"https://github.com/vllm-project/vllm/issues/38425"}
+{"repo":"vllm-project/vllm","number":37753,"title":"[Feature]: Unify MoE \"Oracles\" with Class Structure","url":"https://github.com/vllm-project/vllm/issues/37753"}
+{"repo":"vllm-project/vllm","number":33267,"title":"[Feature]: Remove attention layer name from `unified_kv_cache_update`","url":"https://github.com/vllm-project/vllm/issues/33267"}
+{"repo":"vllm-project/vllm","number":32588,"title":"[Bug]: Wrong timestamps if audio > 30s","url":"https://github.com/vllm-project/vllm/issues/32588"}
+{"repo":"vllm-project/vllm","number":32335,"title":"[Feature]: Extract KV-Cache update from all attention backends","url":"https://github.com/vllm-project/vllm/issues/32335"}
+{"repo":"vllm-project/vllm","number":32268,"title":"[Feature]: Refactor Int8ScaledMMLinearLayerConfig to use QuantKey","url":"https://github.com/vllm-project/vllm/issues/32268"}
+{"repo":"vllm-project/vllm","number":31624,"title":"[Bug]: ModelOpt Llama-4 Checkpoints Take 5+ minutes to load","url":"https://github.com/vllm-project/vllm/issues/31624"}
+{"repo":"vercel/next.js","number":53473,"title":"`@next/next/no-html-link-for-pages` rule does not work with `pageExtensions`","url":"https://github.com/vercel/next.js/issues/53473"}
+{"repo":"vercel/next.js","number":42846,"title":"Parameter on `AppType` is used incorrectly","url":"https://github.com/vercel/next.js/issues/42846"}
+{"repo":"vercel/next.js","number":41281,"title":"Inconsistent Error Messaging / Handling in getStaticPaths","url":"https://github.com/vercel/next.js/issues/41281"}
+{"repo":"vercel/next.js","number":38863,"title":"POST request succeeds for pages with next dev","url":"https://github.com/vercel/next.js/issues/38863"}
+{"repo":"vercel/next.js","number":20924,"title":"Misleading \"next-head-count is missing\" error for invalid head tags","url":"https://github.com/vercel/next.js/issues/20924"}
+{"repo":"vercel/next.js","number":16660,"title":"Dynamic Routes in Symlinks is not working","url":"https://github.com/vercel/next.js/issues/16660"}
+{"repo":"vercel/next.js","number":15971,"title":"Redux-observable server side fetching","url":"https://github.com/vercel/next.js/issues/15971"}
+{"repo":"vercel/next.js","number":14244,"title":"ISG with GIP in _app overrides cache-control of ISG page","url":"https://github.com/vercel/next.js/issues/14244"}
+{"repo":"vercel/next.js","number":13653,"title":"Scrolling happens when user returns to a page with hash using browser back button","url":"https://github.com/vercel/next.js/issues/13653"}
+{"repo":"vercel/next.js","number":10900,"title":"getInitialProps is not running when Router.replace's \"href\" and \"as\" contains hash and query params inside \"href\" change.","url":"https://github.com/vercel/next.js/issues/10900"}
+{"repo":"angular/angular","number":13993,"title":"Forms should throw error if two or more NgModels appear in form with the same name","url":"https://github.com/angular/angular/issues/13993"}
+{"repo":"nuxt/nuxt","number":36004,"title":"Support dev-only `typescript.typeCheck`","url":"https://github.com/nuxt/nuxt/issues/36004"}
+{"repo":"nuxt/nuxt","number":35236,"title":"[Feature]: Add hook or option to prevent suspenseKey increment during navigation (stable page content on fast navigation)","url":"https://github.com/nuxt/nuxt/issues/35236"}
+{"repo":"nuxt/nuxt","number":34756,"title":"Tests not in a `test[s]/nuxt/` subdirectory are excluded from typechecking","url":"https://github.com/nuxt/nuxt/issues/34756"}
+{"repo":"nuxt/nuxt","number":33015,"title":"deep links in Chrome DevTools via Extensibility API","url":"https://github.com/nuxt/nuxt/issues/33015"}
+{"repo":"nuxt/nuxt","number":32638,"title":"✨ Enforce strict v4 directory structure","url":"https://github.com/nuxt/nuxt/issues/32638"}
+{"repo":"nuxt/nuxt","number":32443,"title":"use server-fetched data in lazily hydrated components with useAsyncData","url":"https://github.com/nuxt/nuxt/issues/32443"}
+{"repo":"nuxt/nuxt","number":32154,"title":"`v-once` with `useAsyncData` causes \"Cannot read properties of null\" error upon navigation in 3.17.0+","url":"https://github.com/nuxt/nuxt/issues/32154"}
+{"repo":"nuxt/nuxt","number":31638,"title":"Nested page scroll behavior","url":"https://github.com/nuxt/nuxt/issues/31638"}
+{"repo":"nuxt/nuxt","number":31604,"title":"Support for lazy hydration with pug templates","url":"https://github.com/nuxt/nuxt/issues/31604"}
+{"repo":"nuxt/nuxt","number":31569,"title":"Renaming components causes `Pre-transform error: Failed to load url`","url":"https://github.com/nuxt/nuxt/issues/31569"}
+{"repo":"microsoft/TypeScript","number":37782,"title":"'declare method' quick fix for adding a private method","url":"https://github.com/microsoft/TypeScript/issues/37782"}
+{"repo":"microsoft/TypeScript","number":30408,"title":"Confusing error message for labels used before definition","url":"https://github.com/microsoft/TypeScript/issues/30408"}
+{"repo":"microsoft/TypeScript","number":29707,"title":"TS is overly picky when declaring a class constructor type","url":"https://github.com/microsoft/TypeScript/issues/29707"}
+{"repo":"microsoft/TypeScript","number":27910,"title":"TS2367: This condition will always return 'false' since the types 'Constructor<T>' and 'typeof Child' have no overlap.","url":"https://github.com/microsoft/TypeScript/issues/27910"}
+{"repo":"microsoft/TypeScript","number":25083,"title":"Enum keys not accepted as computed properties if their name is not a valid identifier","url":"https://github.com/microsoft/TypeScript/issues/25083"}
+{"repo":"microsoft/TypeScript","number":23185,"title":"Cannot Load Custom Definition File in Repository","url":"https://github.com/microsoft/TypeScript/issues/23185"}
+{"repo":"microsoft/TypeScript","number":22467,"title":"getDefinitionAtPosition doesn't distinguish different kinds in a merged declaration","url":"https://github.com/microsoft/TypeScript/issues/22467"}
+{"repo":"microsoft/TypeScript","number":20183,"title":"Sort jsdoc parameter suggestions by argument position ","url":"https://github.com/microsoft/TypeScript/issues/20183"}
+{"repo":"microsoft/TypeScript","number":18433,"title":"Dangerous \"name\" (and potentially others) global ","url":"https://github.com/microsoft/TypeScript/issues/18433"}
+{"repo":"microsoft/TypeScript","number":15506,"title":"Flag boolean in comparison operator operands as errors","url":"https://github.com/microsoft/TypeScript/issues/15506"}
+{"repo":"reactjs/react.dev","number":6713,"title":"Capitalize React concepts in docs","url":"https://github.com/reactjs/react.dev/issues/6713"}
+{"repo":"reactjs/react.dev","number":4382,"title":"Add next/image component as MDX component and convert img tags to Image component","url":"https://github.com/reactjs/react.dev/issues/4382"}
+{"repo":"reactjs/react.dev","number":1214,"title":"Add getDerivedState docs for createClass","url":"https://github.com/reactjs/react.dev/issues/1214"}
+{"repo":"reactjs/react.dev","number":787,"title":"The browser \"back\" button doesn't work","url":"https://github.com/reactjs/react.dev/issues/787"}
+{"repo":"reactjs/react.dev","number":286,"title":"Mention that `Component.render` could return iterator","url":"https://github.com/reactjs/react.dev/issues/286"}
+{"repo":"reactjs/react.dev","number":80,"title":"Document how React treats different attributes","url":"https://github.com/reactjs/react.dev/issues/80"}
+{"repo":"reactjs/react.dev","number":28,"title":"Improve/create documentation for ReactTestUtils.renderIntoDocument()","url":"https://github.com/reactjs/react.dev/issues/28"}
+{"repo":"reactjs/react.dev","number":24,"title":"Add Flow types to website source","url":"https://github.com/reactjs/react.dev/issues/24"}
+{"repo":"mdn/content","number":44987,"title":"HTMLTableElement insertRow() has inaccurate description of default behavior","url":"https://github.com/mdn/content/issues/44987"}
+{"repo":"mdn/content","number":44927,"title":"Is 'Use pagehide as a fallback' clause still needed?","url":"https://github.com/mdn/content/issues/44927"}
+{"repo":"mdn/content","number":39127,"title":"Cache-Control private is unnecessary with no-store given","url":"https://github.com/mdn/content/issues/39127"}
+{"repo":"babel/babel","number":12545,"title":"[preset-env] all the core-js imports are removed","url":"https://github.com/babel/babel/issues/12545"}
+{"repo":"babel/babel","number":7357,"title":"injecting external-helpers in a node app","url":"https://github.com/babel/babel/issues/7357"}
+{"repo":"nodejs/node","number":56531,"title":"FATAL ERROR: v8::ToLocalChecked Empty MaybeLocal","url":"https://github.com/nodejs/node/issues/56531"}
+{"repo":"fastify/fastify","number":5215,"title":"Option to align route params with schema at startup","url":"https://github.com/fastify/fastify/issues/5215"}
+{"repo":"fastify/fastify","number":4967,"title":"ApplicationHooks have inconsistent reference to instance","url":"https://github.com/fastify/fastify/issues/4967"}
+{"repo":"fastify/fastify","number":4413,"title":"Support pino logger customAttributeKeys to replace existing req res reqId log record fields","url":"https://github.com/fastify/fastify/issues/4413"}
+{"repo":"fastify/fastify","number":3618,"title":"Categorize Fastify Plugins","url":"https://github.com/fastify/fastify/issues/3618"}
+{"repo":"pytest-dev/pytest","number":14853,"title":"Expose FixtureFunctionDefinition as part of the public API","url":"https://github.com/pytest-dev/pytest/issues/14853"}
+{"repo":"pytest-dev/pytest","number":14834,"title":"endorse https://pypi.org/project/pytest-skip-slow/ for the slow marker","url":"https://github.com/pytest-dev/pytest/issues/14834"}
+{"repo":"kubernetes/kubernetes","number":138149,"title":"Migrate DRA components to support granular authorization on status updates","url":"https://github.com/kubernetes/kubernetes/issues/138149"}
+{"repo":"kubernetes/kubernetes","number":126379,"title":"add and use alternative APIs which support contextual logging","url":"https://github.com/kubernetes/kubernetes/issues/126379"}
+{"repo":"kubernetes/kubernetes","number":118172,"title":"kubelet parameter(eviction-max-pod-grace-period ), not work as expected like officical comment.","url":"https://github.com/kubernetes/kubernetes/issues/118172"}
+{"repo":"kubernetes/kubernetes","number":115823,"title":"Give an indication in container events for probe failure as to whether the failure was ignored due to FailureThreshold","url":"https://github.com/kubernetes/kubernetes/issues/115823"}
+{"repo":"kubernetes/kubernetes","number":115782,"title":"Write the stress test for gRPC, http, and tcp probes","url":"https://github.com/kubernetes/kubernetes/issues/115782"}
+{"repo":"kubernetes/kubernetes","number":114369,"title":"NetworkPolicy tests for blocking north/south traffic","url":"https://github.com/kubernetes/kubernetes/issues/114369"}
+{"repo":"kubernetes/kubernetes","number":112733,"title":"Node lifecycle controller does not `markPodsNotReady` when the node `Ready` state changes from `false` to `unknown`","url":"https://github.com/kubernetes/kubernetes/issues/112733"}
+{"repo":"kubernetes/kubernetes","number":109717,"title":"tracker: improve the kubelet test coverage","url":"https://github.com/kubernetes/kubernetes/issues/109717"}
+{"repo":"helm/helm","number":31585,"title":"New watcher wait strategy lacking SDK logging","url":"https://github.com/helm/helm/issues/31585"}
+{"repo":"helm/helm","number":31552,"title":"Helm 3.19 crashes with a nil pointer dereference","url":"https://github.com/helm/helm/issues/31552"}
+{"repo":"helm/helm","number":30787,"title":"Display oci annotations or created date if annotation exists in helm show chart command","url":"https://github.com/helm/helm/issues/30787"}
+{"repo":"helm/helm","number":11484,"title":"broken naming/rendering of aliased subcharts","url":"https://github.com/helm/helm/issues/11484"}
+{"repo":"helm/helm","number":11463,"title":"Shared action configs changed if install action runs with ClientOnly flagged","url":"https://github.com/helm/helm/issues/11463"}
+{"repo":"helm/helm","number":11310,"title":"Helm supports unix style path in HELM_PLUGINS for loading, but fails when installing new plugins","url":"https://github.com/helm/helm/issues/11310"}
+{"repo":"helm/helm","number":11118,"title":"Unclear error about \"table\" destination","url":"https://github.com/helm/helm/issues/11118"}
+{"repo":"helm/helm","number":10537,"title":"helm lint misses bad chart names","url":"https://github.com/helm/helm/issues/10537"}
+{"repo":"helm/helm","number":7997,"title":"Errors on \"helm list\" AND \"helm install\"","url":"https://github.com/helm/helm/issues/7997"}
+{"repo":"prometheus/prometheus","number":16525,"title":"Set and check (and document) a global label_value_length_limit","url":"https://github.com/prometheus/prometheus/issues/16525"}
+{"repo":"prometheus/prometheus","number":14398,"title":"__meta_kubernetes_service_loadbalancer_ip not working as expected","url":"https://github.com/prometheus/prometheus/issues/14398"}
+{"repo":"prometheus/prometheus","number":11834,"title":"Remove OOO Head compaction's dependency on the in-order Head compaction","url":"https://github.com/prometheus/prometheus/issues/11834"}
+{"repo":"prometheus/prometheus","number":11505,"title":"remote write: When ingesting, check that labels are indeed sorted lexicographically","url":"https://github.com/prometheus/prometheus/issues/11505"}
+{"repo":"grafana/grafana","number":116074,"title":"Alerting: Manually Set labels are not present in namespace when notification message is interpolated","url":"https://github.com/grafana/grafana/issues/116074"}
+{"repo":"grafana/grafana","number":115711,"title":"export / copy input data in debug transformation section","url":"https://github.com/grafana/grafana/issues/115711"}
+{"repo":"grafana/grafana","number":115015,"title":"Hide \"New Data source recording rule\" option and \"Data source-managed\" tab when alertingDisableDMAlerts is enabled.","url":"https://github.com/grafana/grafana/issues/115015"}
+{"repo":"grafana/grafana","number":113075,"title":"Add grafana.ini parameter to disable \"Forgot your password?\" link","url":"https://github.com/grafana/grafana/issues/113075"}
+{"repo":"grafana/grafana","number":111664,"title":"Alerting: Options tooltip does not save interval value if I click outside tooltip","url":"https://github.com/grafana/grafana/issues/111664"}
+{"repo":"grafana/grafana","number":110677,"title":"Pyroscope/flamegraph: Move \"other\" out of the TOP table and explain it better","url":"https://github.com/grafana/grafana/issues/110677"}
+{"repo":"grafana/grafana","number":109373,"title":"Dynamically construct `jwk_set_url` by using kid as part of the URL","url":"https://github.com/grafana/grafana/issues/109373"}
+{"repo":"grafana/grafana","number":107678,"title":"Plugins installer should inherit permissions if possible","url":"https://github.com/grafana/grafana/issues/107678"}
+{"repo":"grafana/grafana","number":100059,"title":"Alerting: Improve state history","url":"https://github.com/grafana/grafana/issues/100059"}
+{"repo":"grafana/grafana","number":90447,"title":"Alerting: Strange NoData alerts","url":"https://github.com/grafana/grafana/issues/90447"}
+{"repo":"istio/istio","number":24309,"title":"Enhance experimental `metrics` CLI","url":"https://github.com/istio/istio/issues/24309"}
+{"repo":"elastic/elasticsearch","number":146662,"title":"SecurityMigrationExecutor and SystemIndexMigrationExecutor should not be persistent tasks","url":"https://github.com/elastic/elasticsearch/issues/146662"}
+{"repo":"elastic/elasticsearch","number":141887,"title":"Make SnapshotHistoryStore retry indexing history data on EsRejectedExecutionException","url":"https://github.com/elastic/elasticsearch/issues/141887"}
+{"repo":"elastic/elasticsearch","number":136895,"title":"Add columns CAT Shards for _tier_preference and node.roles","url":"https://github.com/elastic/elasticsearch/issues/136895"}
+{"repo":"elastic/elasticsearch","number":136533,"title":"ESQL should support a humanize option to quickly render values in human readable way.","url":"https://github.com/elastic/elasticsearch/issues/136533"}
+{"repo":"elastic/elasticsearch","number":112812,"title":"Detect when copying to a non-existent field when dynamic mappings are disabled","url":"https://github.com/elastic/elasticsearch/issues/112812"}
+{"repo":"elastic/elasticsearch","number":109797,"title":"`_field_caps` with `types` query parameter returns also `objects` types if it's a parent of a requested type","url":"https://github.com/elastic/elasticsearch/issues/109797"}
+{"repo":"elastic/elasticsearch","number":92947,"title":"Share number based field mapper test code with other modules","url":"https://github.com/elastic/elasticsearch/issues/92947"}
+{"repo":"elastic/elasticsearch","number":89707,"title":"Expand runtime_field data types to include ranges","url":"https://github.com/elastic/elasticsearch/issues/89707"}
+{"repo":"elastic/elasticsearch","number":73248,"title":"API to return global state from a snapshot","url":"https://github.com/elastic/elasticsearch/issues/73248"}
+{"repo":"elastic/elasticsearch","number":70676,"title":"Taking a snapshot of an index closed prior to 7.2.0 fails with a NPE in 7.11.2","url":"https://github.com/elastic/elasticsearch/issues/70676"}
+{"repo":"microsoft/vscode","number":256854,"title":"Review AsyncIterableObject usage: potential memory leaks and migration to AsyncIterableProducer","url":"https://github.com/microsoft/vscode/issues/256854"}
+{"repo":"microsoft/vscode","number":244138,"title":"Disabled and enabled (workspace) extension Disable button dropdown contains both \"Disable\" and \"Disable (Workspace)\" items","url":"https://github.com/microsoft/vscode/issues/244138"}
+{"repo":"microsoft/vscode","number":232381,"title":"Go to symbol in workspace shortcut in Codespaces (browser) is CTRL-T.","url":"https://github.com/microsoft/vscode/issues/232381"}
+{"repo":"microsoft/vscode","number":232159,"title":"Devcontainer setup ad-hoc parsing fails on Rocky 8.5","url":"https://github.com/microsoft/vscode/issues/232159"}
+{"repo":"microsoft/vscode","number":231076,"title":"VS Code is ignoring the environment setting for node js --max-old-space-size","url":"https://github.com/microsoft/vscode/issues/231076"}
+{"repo":"microsoft/vscode","number":223591,"title":"Warning when running in vscode terminal 'xdg-open \"https://...\"'","url":"https://github.com/microsoft/vscode/issues/223591"}
+{"repo":"microsoft/vscode","number":182795,"title":"Simple browser will be opened multiple times with race","url":"https://github.com/microsoft/vscode/issues/182795"}
+{"repo":"microsoft/vscode","number":170868,"title":"Adapt the bash of busybox.","url":"https://github.com/microsoft/vscode/issues/170868"}
+{"repo":"microsoft/vscode","number":151151,"title":"Image stays broken when re-executing Markdown cell","url":"https://github.com/microsoft/vscode/issues/151151"}
+{"repo":"microsoft/vscode","number":147688,"title":"Adopt `LSItemContentTypes` over `CFBundleTypeOSTypes`","url":"https://github.com/microsoft/vscode/issues/147688"}
+{"repo":"zulip/zulip","number":39794,"title":"Migrate compose and message-edit banners to the modern banner component","url":"https://github.com/zulip/zulip/issues/39794"}
+{"repo":"zulip/zulip","number":19589,"title":"Separate `command` and `text` field for slack-compatible outgoing webhook","url":"https://github.com/zulip/zulip/issues/19589"}
+{"repo":"zulip/zulip","number":2746,"title":"Add join/leave notifications for private channels","url":"https://github.com/zulip/zulip/issues/2746"}
+{"repo":"oppia/oppia","number":26844,"title":"[Feature Request]: Migrate acceptance tests for voiceover-submitter from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26844"}
+{"repo":"oppia/oppia","number":26843,"title":"[Feature Request]: Migrate acceptance tests for voiceover-admin from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26843"}
+{"repo":"oppia/oppia","number":26842,"title":"[Feature Request]: Migrate acceptance tests for translation-submitter from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26842"}
+{"repo":"oppia/oppia","number":26841,"title":"[Feature Request]: Migrate acceptance tests for translation-reviewer from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26841"}
+{"repo":"oppia/oppia","number":26840,"title":"[Feature Request]: Migrate acceptance tests for translation-coordinator from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26840"}
+{"repo":"oppia/oppia","number":26839,"title":"[Feature Request]: Migrate acceptance tests for super-admin from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26839"}
+{"repo":"oppia/oppia","number":26838,"title":"[Feature Request]: Migrate acceptance tests for site-moderator from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26838"}
+{"repo":"oppia/oppia","number":26837,"title":"[Feature Request]: Migrate acceptance tests for release-coordinator from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26837"}
+{"repo":"oppia/oppia","number":26836,"title":"[Feature Request]: Migrate acceptance tests for practice-question-submitter from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26836"}
+{"repo":"oppia/oppia","number":26835,"title":"[Feature Request]: Migrate acceptance tests for practice-question-reviewer from Puppeteer to Playwright","url":"https://github.com/oppia/oppia/issues/26835"}
+{"repo":"dotnet/runtime","number":115717,"title":"[Android] Implement post-build symbol stripping","url":"https://github.com/dotnet/runtime/issues/115717"}
+{"repo":"dotnet/runtime","number":108269,"title":"[illink][ios] Explicitly setting `PublishTrimmed=true` changes the default feature switch configuration","url":"https://github.com/dotnet/runtime/issues/108269"}
+{"repo":"dotnet/runtime","number":106560,"title":"Android - With set Turkish locale \"i\".ToUpper() is giving 'I\" instead of 'İ'","url":"https://github.com/dotnet/runtime/issues/106560"}
+{"repo":"dotnet/runtime","number":105130,"title":"[iOS][HybridGlobalization] Clean-up internal testing related to hybrid globalization","url":"https://github.com/dotnet/runtime/issues/105130"}
+{"repo":"dotnet/runtime","number":96143,"title":"UnixDomainSocketEndPoint no longer constructable on iOS (.NET 8)","url":"https://github.com/dotnet/runtime/issues/96143"}
+{"repo":"dotnet/runtime","number":74020,"title":"Unnecessary shr emitted for repeated multiplication","url":"https://github.com/dotnet/runtime/issues/74020"}
+{"repo":"dotnet/runtime","number":66544,"title":"System.IO.FileSystem tests fail all over with temp on Fat32","url":"https://github.com/dotnet/runtime/issues/66544"}
+{"repo":"dotnet/runtime","number":43093,"title":"[mono] Implement pinvoke-detach-1.cs tests on Windows","url":"https://github.com/dotnet/runtime/issues/43093"}
+{"repo":"dotnet/runtime","number":42801,"title":"Use disjoint-set-union for `ClassLayout::AreCompatible`.","url":"https://github.com/dotnet/runtime/issues/42801"}
+{"repo":"dotnet/runtime","number":32889,"title":"[mono] MonoImage->references reads should be atomic","url":"https://github.com/dotnet/runtime/issues/32889"}
+{"repo":"swiftlang/swift","number":89131,"title":"Invalid fix-it on unused optional binding when multiple conditions","url":"https://github.com/swiftlang/swift/issues/89131"}
+{"repo":"swiftlang/swift","number":88835,"title":"Compiler error when extending a typealias of a partially specialized generic type","url":"https://github.com/swiftlang/swift/issues/88835"}
+{"repo":"swiftlang/swift","number":88709,"title":"Misleading error about `nonisolated` not being applicable to mutable stored properties","url":"https://github.com/swiftlang/swift/issues/88709"}
+{"repo":"swiftlang/swift","number":88338,"title":"Error says `@preconcurrency` only applies in inheritance clauses","url":"https://github.com/swiftlang/swift/issues/88338"}
+{"repo":"swiftlang/swift","number":87830,"title":"No fix-it for escaping closure captures 'inout' parameter","url":"https://github.com/swiftlang/swift/issues/87830"}
+{"repo":"swiftlang/swift","number":87757,"title":"Separate `-dump-clang-diagnostics` into two features.","url":"https://github.com/swiftlang/swift/issues/87757"}
+{"repo":"swiftlang/swift","number":87468,"title":"Build Debug versions of `swiftrt.o` (`swiftrtd.o`)","url":"https://github.com/swiftlang/swift/issues/87468"}
+{"repo":"swiftlang/swift","number":87324,"title":"No fix-it for missing type annotation in computed property","url":"https://github.com/swiftlang/swift/issues/87324"}
+{"repo":"swiftlang/swift","number":87322,"title":"Redundant error for missing type annotation in computed property","url":"https://github.com/swiftlang/swift/issues/87322"}
+{"repo":"swiftlang/swift","number":87218,"title":"Suboptimal diagnostics on mutating on immutable + optional value on non-optional parameter","url":"https://github.com/swiftlang/swift/issues/87218"}
+{"repo":"godotengine/godot","number":100000,"title":"You're breathtaking!","url":"https://github.com/godotengine/godot/issues/100000"}
+{"repo":"godotengine/godot","number":43440,"title":"[TRACKER] Unit tests to add or improve","url":"https://github.com/godotengine/godot/issues/43440"}

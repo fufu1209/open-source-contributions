@@ -28,8 +28,16 @@
 ## 📈 进度
 
 - 目标项目:100
-- 已提交 PR:`见 CONTRIBUTIONS.md 统计`
+- 已提交 PR:1([first-contributions#123134](https://github.com/firstcontributions/first-contributions/pull/123134))
 - 已合并:`见 CONTRIBUTIONS.md 统计`
+
+## 🔍 已筛选候选
+
+`candidates.jsonl` 已收录 **178 条** good-first-issue 候选(覆盖 100 个仓库,断点续跑生成)。
+筛选真实贡献时注意:
+- 大厂项目(keras/pytorch/tensorflow 等)要求先签 **CLA**,否则 PR 的 `cla/*` 检查会挂;
+- 部分项目(scipy 等)明确**禁止 AI 生成内容**,此类贡献会被拒并影响声誉;
+- 优先选无人认领、范围明确、可本地验证正确性的修复。
 
 ## 🚀 使用方法
 

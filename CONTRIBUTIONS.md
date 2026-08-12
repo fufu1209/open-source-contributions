@@ -96,7 +96,7 @@
 | 90 | [rapid7/metasploit-framework](https://github.com/rapid7/metasploit-framework) | 安全 | | | | 🟡 待跟进 |
 | 91 | [projectdiscovery/nuclei](https://github.com/projectdiscovery/nuclei) | 安全 | | | | 🟡 待跟进 |
 | 92 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 教育/新手友好 | | | | 🟡 待跟进 |
-| 93 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 教育/新手友好 | | | | 🟡 待跟进 |
+| 93 | [firstcontributions/first-contributions](https://github.com/firstcontributions/first-contributions) | 教育/新手友好 | 首次 PR 引导 | 加入 Contributors 名单 | [PR #123134](https://github.com/firstcontributions/first-contributions/pull/123134) | 🟢 已提交 |
 | 94 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 教育/新手友好 | | | | 🟡 待跟进 |
 | 95 | [zulip/zulip](https://github.com/zulip/zulip) | 教育/新手友好 | | | | 🟡 待跟进 |
 | 96 | [oppia/oppia](https://github.com/oppia/oppia) | 教育/新手友好 | | | | 🟡 待跟进 |
@@ -107,5 +107,5 @@
 
 ## 统计
 - 目标项目:100
-- 已提交 PR:0
+- 已提交 PR:1
 - 已合并:0
