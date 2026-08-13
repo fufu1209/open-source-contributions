@@ -27,7 +27,7 @@
 | 21 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | Web前端 | | | | 🟡 待跟进 |
 | 22 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Web前端 | | | | 🟡 待跟进 |
 | 23 | [reactjs/react.dev](https://github.com/reactjs/react.dev) | Web前端 | | | | 🟡 待跟进 |
-| 24 | [mdn/content](https://github.com/mdn/content) | Web前端 | #45065 #44894 #45082 #44816 | observedAttributes 说明 / color-mix 默认 hue / selectionchange 异步 / colgroup 覆盖说明 | [45109](https://github.com/mdn/content/pull/45109) [45110](https://github.com/mdn/content/pull/45110) [45111](https://github.com/mdn/content/pull/45111) | 🟢 已提交 3 PR |
+| 24 | [mdn/content](https://github.com/mdn/content) | Web前端 | #45065 #44894 #45082 #44816 #45101 #45107 #33746 | observedAttributes 说明 / color-mix 默认 hue / selectionchange 异步 / colgroup 覆盖说明 / contain paint 裁剪边界 / flex-flow live example / document role 修正 | [45109](https://github.com/mdn/content/pull/45109) [45110](https://github.com/mdn/content/pull/45110) [45111](https://github.com/mdn/content/pull/45111) [45113](https://github.com/mdn/content/pull/45113) [45114](https://github.com/mdn/content/pull/45114) [45115](https://github.com/mdn/content/pull/45115) + document-role 分支待建 PR | 🟢 已提交 6 PR + 1 待建 |
 | 25 | [facebook/react-native](https://github.com/facebook/react-native) | Web前端 | | | | 🟡 待跟进 |
 | 26 | [electron/electron](https://github.com/electron/electron) | Web前端 | | | | 🟡 待跟进 |
 | 27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Web前端 | | | | 🟡 待跟进 |
@@ -107,5 +107,5 @@
 
 ## 统计
 - 目标项目:100
-- 已提交 PR:4(mdn/content 3 个 + first-contributions 1 个;另有 colgroup 修复已推送分支待建 PR)
+- 已提交 PR:7(mdn/content 6 个 + first-contributions 1 个;document-role 修复分支已推,待建 PR)
 - 已合并:0
