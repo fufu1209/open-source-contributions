@@ -27,7 +27,7 @@
 | 21 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | Web前端 | | | | 🟡 待跟进 |
 | 22 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Web前端 | | | | 🟡 待跟进 |
 | 23 | [reactjs/react.dev](https://github.com/reactjs/react.dev) | Web前端 | | | | 🟡 待跟进 |
-| 24 | [mdn/content](https://github.com/mdn/content) | Web前端 | #45101 #45107 #33746 #45065 #44894 #45082 #44816 | contain paint 裁剪边界 / flex-flow live example / document role 修正 / 其余 4 单内容有效但与在途 PR 重复 | [#45113](https://github.com/mdn/content/pull/45113)🔵 [#45115](https://github.com/mdn/content/pull/45115)🔵 [#45116](https://github.com/mdn/content/pull/45116)🔵 [#45109](https://github.com/mdn/content/pull/45109)⛔ [#45110](https://github.com/mdn/content/pull/45110)⛔ [#45111](https://github.com/mdn/content/pull/45111)⛔ [#45114](https://github.com/mdn/content/pull/45114)⛔ | 🔵 3 open / ⛔ 4 重复 |
+| 24 | [mdn/content](https://github.com/mdn/content) | Web前端 | #45101 #45107 #33746 #45065 #44894 #45082 #44816 #8907 #43412 #35182 | contain paint 裁剪边界 / flex-flow live example / document role 修正 / viewBox.baseVal 空属性行为(规范+Chrome 实测) / font-family generic() 语法(规范验证) / TCP 拥塞控制 ACK 行为+缓冲区(规范验证) / 其余 4 单与在途 PR 重复;Repr-Digest #45059 被 #45076 覆盖放弃 | [#45113](https://github.com/mdn/content/pull/45113)🔵 [#45115](https://github.com/mdn/content/pull/45115)🔵 [#45116](https://github.com/mdn/content/pull/45116)🔵 3 PR待建(限流冷却中) [#45109](https://github.com/mdn/content/pull/45109)⛔ [#45110](https://github.com/mdn/content/pull/45110)⛔ [#45111](https://github.com/mdn/content/pull/45111)⛔ [#45114](https://github.com/mdn/content/pull/45114)⛔ | 🔵 3 open + 3 待建 / ⛔ 4 重复 |
 | 25 | [facebook/react-native](https://github.com/facebook/react-native) | Web前端 | | | | 🟡 待跟进 |
 | 26 | [electron/electron](https://github.com/electron/electron) | Web前端 | | | | 🟡 待跟进 |
 | 27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Web前端 | | | | 🟡 待跟进 |
@@ -108,6 +108,6 @@
 ## 统计
 - 目标项目:100
 - ✅ 已合并:1(first-contributions #123134)
-- 🔵 待审 open PR:3(mdn #45113、#45115、#45116)
+- 🔵 待审 open PR:3(mdn #45113、#45115、#45116)+3 待建(baseVal / font-family / congestion control,CreatePullRequest 限流冷却中,后台每 10 分钟自动重试)
 - ⛔ 因与在途 PR 重复而关闭:4
 - 经验:提交前必须查 issue 的 cross-reference/在途 PR,避免撞车
