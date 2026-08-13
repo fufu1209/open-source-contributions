@@ -27,7 +27,7 @@
 | 21 | [nuxt/nuxt](https://github.com/nuxt/nuxt) | Web前端 | | | | 🟡 待跟进 |
 | 22 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | Web前端 | | | | 🟡 待跟进 |
 | 23 | [reactjs/react.dev](https://github.com/reactjs/react.dev) | Web前端 | | | | 🟡 待跟进 |
-| 24 | [mdn/content](https://github.com/mdn/content) | Web前端 | #8907 #43412 #35182 #44477 #45120 #36587 #18045 #36326 + 早期 9 项 | baseVal 空属性行为✅已建PR / font-family generic() 语法 / TCP 拥塞控制 / History 5 方法限流改静默忽略(规范2026-06合并) / DoH 词条新增 / FontFace.sizeAdjust 页面 / RSA-OAEP 长度上限(RFC 8017 §7.1.1) / Touch 坐标单位与缩放(Chrome CDP 实测) / 早期:contain paint 让位、flex-flow、document role、4 撞车 | [#45121](https://github.com/mdn/content/pull/45121)🔵 [#45115](https://github.com/mdn/content/pull/45115)🔵 [#45116](https://github.com/mdn/content/pull/45116)🔵 8 PR排队中 [#45113](https://github.com/mdn/content/pull/45113)⚪ [#45109](https://github.com/mdn/content/pull/45109)⛔ [#45110](https://github.com/mdn/content/pull/45110)⛔ [#45111](https://github.com/mdn/content/pull/45111)⛔ [#45114](https://github.com/mdn/content/pull/45114)⛔ | 🔵 3 open + 8 排队 / ⛔ 4 / ⚪ 1 |
+| 24 | [mdn/content](https://github.com/mdn/content) | Web前端 | #8907 #43412 #35182 #44477 #45120 #36587 #18045 #36326 #33692 #26560 #36508 + 早期 9 项 | baseVal 空属性行为✅已建PR / font-family generic() 语法 / TCP 拥塞控制 / History 5 方法限流改静默忽略(规范2026-06合并) / DoH 词条新增 / FontFace.sizeAdjust 页面 / RSA-OAEP 长度上限(RFC 8017 §7.1.1) / Touch 坐标单位与缩放(Chrome CDP 实测) / periodicSync 权限名(Chrome 官方文档验证) / img.src 立即请求(CDP 网络域实测) / ElementInternals 52 页默认语义修正(CDP 实测不反射) / 早期:contain paint 让位、flex-flow、document role、4 撞车 | [#45121](https://github.com/mdn/content/pull/45121)🔵 [#45115](https://github.com/mdn/content/pull/45115)🔵 [#45116](https://github.com/mdn/content/pull/45116)🔵 11 PR排队中 [#45113](https://github.com/mdn/content/pull/45113)⚪ [#45109](https://github.com/mdn/content/pull/45109)⛔ [#45110](https://github.com/mdn/content/pull/45110)⛔ [#45111](https://github.com/mdn/content/pull/45111)⛔ [#45114](https://github.com/mdn/content/pull/45114)⛔ | 🔵 3 open + 11 排队 / ⛔ 4 / ⚪ 1 |
 | 25 | [facebook/react-native](https://github.com/facebook/react-native) | Web前端 | | | | 🟡 待跟进 |
 | 26 | [electron/electron](https://github.com/electron/electron) | Web前端 | | | | 🟡 待跟进 |
 | 27 | [tauri-apps/tauri](https://github.com/tauri-apps/tauri) | Web前端 | | | | 🟡 待跟进 |
@@ -108,7 +108,7 @@
 ## 统计
 - 目标项目:100
 - ✅ 已合并:1(first-contributions #123134);⚪ 让位 1(#45113)
-- 🔵 待审 open PR:3(mdn #45121、#45115、#45116)+8 排队(font-family / congestion control / History 限流 / DoH / sizeAdjust 页面 / sizeAdjust BCD / RSA-OAEP / Touch 坐标)
+- 🔵 待审 open PR:3(mdn #45121、#45115、#45116)+11 排队(font-family / congestion control / History 限流 / DoH / sizeAdjust 页面 / sizeAdjust BCD / RSA-OAEP / Touch 坐标 / periodicSync 权限 / img.src 立即请求 / ElementInternals 52 页)
 - ⛔ 因与在途 PR 重复而关闭:4
 - ⚠️ 限流实测:60 分钟间隔连续 3 次被 GitHub 拒绝(18:31/19:31/20:31),冷却 >60min 且每次尝试重武装 → 已改用自适应调度器(90min 首试 + 指数退避,成功回 60min)
 - 经验:提交前必须查 issue 的 cross-reference/在途 PR,避免撞车
