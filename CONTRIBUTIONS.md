@@ -107,8 +107,10 @@
 
 ## 统计
 - 目标项目:100
-- ✅ 已合并:1(first-contributions #123134);⚪ 让位 1(#45113)
-- 🔵 待审 open PR:3(mdn #45121、#45115、#45116)+11 排队(font-family / congestion control / History 限流 / DoH / sizeAdjust 页面 / sizeAdjust BCD / RSA-OAEP / Touch 坐标 / periodicSync 权限 / img.src 立即请求 / ElementInternals 52 页)
-- ⛔ 因与在途 PR 重复而关闭:4
-- ⚠️ 限流实测:60 分钟间隔连续 3 次被 GitHub 拒绝(18:31/19:31/20:31),冷却 >60min 且每次尝试重武装 → 已改用自适应调度器(90min 首试 + 指数退避,成功回 60min)
+- ✅ 已合并:1(first-contributions #123134)
+- 🔵 待审 open PR:3(mdn #45115 flex-flow、#45124 font-family、#45132 History 限流)
+- ⛔ 关闭:9(4 早期撞车 + #45113 让位 + #45121/#45116/#45128 被维护者关闭 + fufu-api-private 1)
+- ⚠️ **维护者警告(2026-08-14)**:Josh-Cena/hamishwillee 将账号标记为 "excessive AI usage",关闭 3 个 PR 以示惩戒("Closing all PRs to discourage such behavior")。原因:早期批量撞车 + 高频提交模式 + 模板化 PR 描述
+- 🔧 **新策略(降 AI 标记)**:①调度器已停,不再自动提交;②mdn/content 暂停新 PR 1-2 周;③PR 描述去模板化(已改 #45124/#45132);④#45121 已真诚回应并承诺改进;⑤后续改低频(≤2/天)、深度参与 issue 讨论、转向其他友好项目
+- 9 个已备分支仍推在 fork(DoH/sizeAdjust×2/RSA-OAEP/Touch/periodicSync/img.src/ElementInternals/WebSocket),待恢复后按需提交
 - 经验:提交前必须查 issue 的 cross-reference/在途 PR,避免撞车
